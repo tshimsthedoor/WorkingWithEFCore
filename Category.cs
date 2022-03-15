@@ -21,4 +21,5 @@ namespace Packt.Shared
             // initialize the navigation property to an empty list
             this.Products = new List<Product>();
         }
+    }
 }

@@ -49,3 +49,5 @@ C:\TresorAutoLearningGoal2022\CSharpBook\Chapter11\WorkingWithEFCore\obj\Debug\n
 C:\TresorAutoLearningGoal2022\CSharpBook\Chapter11\WorkingWithEFCore\obj\Debug\net5.0\ref\WorkingWithEFCore.dll
 C:\TresorAutoLearningGoal2022\CSharpBook\Chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.pdb
 C:\TresorAutoLearningGoal2022\CSharpBook\Chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.genruntimeconfig.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter11\WorkingWithEFCore\bin\Debug\net5.0\Castle.Core.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter11\WorkingWithEFCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll

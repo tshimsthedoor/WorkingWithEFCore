@@ -13,7 +13,7 @@ namespace Packt.Shared
         public string ProductName { get; set; }
 
         [Column("UnitPrice", TypeName = "money")]
-        public decimal? Cost { get; set; }
+        public float? Cost { get; set; }
 
         [Column("UnitsInStock")]
         public short? Stock { get; set; }
